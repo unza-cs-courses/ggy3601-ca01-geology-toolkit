@@ -1,0 +1,16 @@
+{
+  "student_id": "finaltest_ca1",
+  "variant_seed": 2758033966386097161,
+  "group_id": 1,
+  "parameters": {
+    "commodity": "iron",
+    "hardness_options": [
+      "hard",
+      "medium",
+      "very_hard"
+    ],
+    "base_drilling_rate": 65,
+    "depth_bonus_threshold": 500,
+    "num_test_samples": 50
+  }
+}
